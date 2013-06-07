@@ -1,0 +1,10 @@
+#status-bar {
+
+}
+#status-bar .badge-active {
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 5px;
+
+}

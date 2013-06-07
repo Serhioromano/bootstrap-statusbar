@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-statusbar",
+  "version": "0.0.1",
+  "description": "Bootstrap statusbar",
+  "main": [
+    "./js/statusbar.min.js"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Serhioromano/bootstrap-statusbar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Sergey Romanov",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "bower": "~0.8.5"
+  }
+}
